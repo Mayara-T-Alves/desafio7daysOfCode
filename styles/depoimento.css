@@ -1,0 +1,38 @@
+.depoimento{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    padding: 5em;
+}
+
+.depoimento_sub-titulo{
+    color: var(--main-color);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.depoimento_titulo{
+    font-weight: 500;
+    font-size: 36px;
+    padding: 1em;
+}
+
+.img_avatar{
+    padding: 1em;
+}
+
+.depoimento_nome{
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.depoimento_area{
+    color: var(--cor-de-letra);
+    font-weight: 400;
+    font-size: 14px;
+}
+
+
+

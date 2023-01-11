@@ -1,0 +1,26 @@
+.metrica{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 3rem;
+    padding: 0 8rem;
+}
+
+.metrica_dados{
+    color: var(--main-color);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.metrica_titulo{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 20px 0;
+}
+
+.metrica_descricao{
+    font-size: 16px;
+}
+
+.projetos_concluidos{
+    padding-left: 1em;
+}

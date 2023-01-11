@@ -1,0 +1,22 @@
+.banner{
+    text-align: center;
+    padding: 100px;
+}
+
+.titulo_pq-diferentes{
+    font-size: 48px;
+    font-weight: 600;
+    padding: 40px;
+}
+
+.sobre-nos{
+    color: var(--main-color);
+    font-size: 16px;
+}
+
+.banner_descricao{
+    text-align: center;
+    color: var(--cor-de-letra);
+    font-size: 20px;
+}
+

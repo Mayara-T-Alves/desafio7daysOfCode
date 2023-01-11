@@ -1,0 +1,58 @@
+.vagas_anuncio{
+    text-align: center;
+    margin: 5%;
+}
+
+.vagas_titulo{
+  color: var(--main-color);
+  size: 14px;  
+  font-weight: 500;
+  background-color: rgba(142, 36, 36, 0.05);
+  border-radius: 16px;
+  padding: 10px;
+}
+
+.vagas_heading{
+    font-weight: 600;
+    font-size: 36px;
+    padding: 1em;
+}
+
+.vagas_descricao{
+    color: var(--cor-de-letra);
+    margin: 0 0 3em;
+}
+
+.secao_vagas{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.area-geral{
+    margin: 5% 0;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.titulo-vaga{
+    font-weight: 500;
+    font-size: 18px;
+    padding: 0 0 20px;
+}
+
+.vagas_tipo, .vagas_sal{
+    font-size: 16px;
+    color: var( --cor-de-letra);
+}
+
+.vagas_sal{
+    padding: 0 1em;
+}
+
+.vagas{
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 4%;
+    margin: 2% 0; 
+}
+
